@@ -1,0 +1,186 @@
+Roll_Number,Name,Grade
+210050102,Murala Vamshi,BB
+23B0901,Kaushal Vijayvergiya,F
+23B0902,Arya Suwalka,BC
+23B0903,Abhi Jain,BB
+23B0904,Prakhar Jain,CC
+23B0905,Sagnik Nandi,F
+23B0906,Velagala Deeraj Sathvik Reddy,CD
+23B0907,Hari Shankar Karthik,BB
+23B0908,Raghav Goyal,DD
+23B0909,Varri Shyam Sri Vardhan,AB
+23B0910,Sonal Kumari,CC
+23B0911,Kalla Lakshmi Surya,F
+23B0912,Sanapala Venkata Aditya,BB
+23B0913,Dipen Sojitra,F
+23B0914,Suvvada Mounisha Naidu,BB
+23B0915,Nandipati Sai Durga Reddy,CD
+23B0916,Vanguri Eshwar,F
+23B0917,Rajat Das,BC
+23B0918,Banoth Tharun Tej,BC
+23B0919,Yougank Kumar,BC
+23B0920,Maradana Dheeraj Kumar,CC
+23B0921,Ishita,F
+23B0922,Akshara,F
+23B0923,Abhineet Majety,AB
+23B0924,Bondala Somanath Vasanth Yadav,CD
+23B0925,Vangapandu Venkata Sai Surya Prakash,AB
+23B0926,Chaitanyaa Mahesh Maheshwari,AA
+23B0927,Gowri K Balakrishnan,BC
+23B0928,Anushka Singhal,DD
+23B0929,Nayakanti Naga Bhavya Sree,CC
+23B0930,Mehul Borad,AA
+23B0931,Haresh Gupta,BC
+23B0932,Tejas Narendra Chaudhari,CD
+23B0933,Sarthak Dhananjay Thakare,BC
+23B0934,Yash Singh,CC
+23B0935,Potnuru Saatvika,BC
+23B0936,Meesala Pranathi Sreeja,BC
+23B0937,Nikhil Narera,BC
+23B0938,Deshank Pratap Singh,CC
+23B0939,Bathula Rithvik,CD
+23B0940,Aditya Neeraje,AB
+23B0941,Maradana Anusri,BB
+23B0942,Dhruv Sanjay Jain,CD
+23B0943,Shaik Sahil Chanda,AB
+23B0944,Aayush Martand Borkar,CC
+23B0945,Akshit Kumar,AB
+23B0946,Itthagoni Sathwik Goud,BB
+23B0947,Akepati Sriya,BC
+23B0948,Kritin Gupta,BC
+23B0949,Kamyak Channa,CC
+23B0950,Harshit Raj,BC
+23B0951,Jatsya Jariwala,AA
+23B0952,Punumalli Lohit Adhitya Sai,AB
+23B0953,Aakash Gupta,AP
+23B0954,Bavurupudi Ritwik,CC
+23B0955,Gulshan Kumar,DD
+23B0956,Siddhant Mulkikar,DD
+23B0957,Kunumalla Gautam Siddharth,CD
+23B0958,Satyam Sinoliya,AA
+23B0960,J Adarsh,BC
+23B0961,Arijit Mandal,BC
+23B0962,Banothu Sonusree,AB
+23B0963,Komrelly Snigdha Reddy,DD
+23B0964,Seemala Varsha,CC
+23B0965,Nakka Mahathi,BC
+23B0966,Ananya Latchupatula,CC
+23B0967,Guduru Adarsh,BC
+23B0968,Suthar Harshul Sanjaybhai,BC
+23B0969,Yakkanti Pani Venkata Maneendhar Reddy,AA
+23B0970,Priyanshu Kumar,BB
+23B0971,Mayank Soni,AA
+23B0972,Komarapu Vivek Vardhan,AA
+23B0973,Sammeta Avaneesh Sai,AB
+23B0974,Krish Gupta,BB
+23B0975,Menda V Venkata Harsha Vardhan,BB
+23B0976,Boyina Sanjana,AA
+23B0977,Keyaan Kartikeya Rajesh,CD
+23B0978,Gowdu Charishma,CD
+23B0979,Satyala Madhu Kiran,AA
+23B0980,Mradul Sonkar,BB
+23B0981,Repudi Akshay Karthik,BC
+23B0982,Navya Garg,BB
+23B0984,Varala Charishma,BB
+23B0985,Jashanpreet Singh,DD
+23B0986,Tanishq Mahesh Mandhane,AA
+23B0987,Dasari Saketh Naidu,BC
+23B0988,Prabhav Khandelwal,BC
+23B0989,Gaurav Kumar,AA
+23B0990,Pothina Madhav,CC
+23B0991,Shravya Karna,CC
+23B0992,Dumpala Paneendra Nadha Reddy,AA
+23B0993,Kethavath Nithin Naik,BB
+23B0994,Vavilala Chidvilas Reddy,BB
+23B0995,Kunj Bhesaniya,BB
+23B0996,Punit Kumar,AB
+23B0997,Thammaneni Dheeraj,AB
+23B0998,Velamakanni Satwik,BC
+23B0999,Yuvraj Gupta,AA
+23B1000,Paluri Gnana Kousik Reddy,AB
+23B1001,Vadde Shanvitha Reddy,AA
+23B1002,Sasthrula Joel Tenny,AP
+23B1003,Abhinav Singh,BB
+23B1004,Karri Ganga Dhana Sri,BC
+23B1005,Sara Mukherjee,AB
+23B1006,Sandeep Reddy Nallamilli,AB
+23B1007,Shivam Singh Yadav,BB
+23B1008,Jainendrajeet,BC
+23B1009,Udit Sarkar,CD
+23B1010,Pudi Ajay Kumar,CC
+23B1011,Abhilasha Sharma Suman,CC
+23B1012,Burri Gehna Chelvi,CD
+23B1014,Peela Teja Sri,CD
+23B1015,Pinnu Shasank Reddy,AA
+23B1016,Harshil Amitkumar Solanki,BC
+23B1017,Evuri Mohana Sreedhara Reddy,DD
+23B1018,Bikkina Abhinav Chowdary,CD
+23B1019,Chirag Gautam,CC
+23B1020,Chennu Rakesh Kumar Reddy,DD
+23B1021,Sambangi Varshini,BC
+23B1022,Rayapati Dinesh Sai,F
+23B1023,Pushpendra Uikey,AB
+23B1024,Pendurthi Nischal Subhash,CD
+23B1025,Somya Dahiaya,DD
+23B1026,Duggineni Venkata Yugesh,DD
+23B1027,Dola Surya Sai,AB
+23B1028,Ashish Kumar,BB
+23B1029,Karedla Balaji,BB
+23B1030,Vaka Sri Varshitha,CD
+23B1031,Mrunal Shrikant Vairagade,AA
+23B1032,Vysyaraju Srikar Nihal,BC
+23B1033,Chinthaparthi Babu Sujan Reddy,AB
+23B1034,Malay Kedia,BC
+23B1035,Sameer Arvind Patil,BB
+23B1036,Kabir S Prakash,CC
+23B1037,Vennela Yasasvi Naidu,AA
+23B1038,N.K.Vishwaajith,CD
+23B1039,Nenavath Sree Vamshi Madhav,CC
+23B1040,B Shashank,AB
+23B1041,Merchant Dhruvraj Vijaykumar,BC
+23B1042,Sangadi Vijaya Raghavendra,DD
+23B1043,Yash Vikas Sabale,AB
+23B1044,Moulik Jindal,AB
+23B1045,Niral Charan,CD
+23B1046,Kokkiligadda Manaswi,AB
+23B1047,Tapase Aditi Maniklal,BC
+23B1048,Sanchita Chaurasia,BC
+23B1049,Ridam Jain,AB
+23B1050,Ujwal L Shankar,CD
+23B1051,Aman Nehra,CC
+23B1052,Ramachandran S,AA
+23B1053,Aditi Singh,AA
+23B1054,Pathi Nikitha,DD
+23B1055,Sanapala Anirudh,DD
+23B1056,Addagada Venkata Sivaram,BC
+23B1057,Sabil Ahmad,BB
+23B1058,Udtyavath Sai Likhith,F
+23B1059,Allam Sujay,DD
+23B1060,Madhav R Babu,CD
+23B1061,Devangam Kishan Teja,BC
+23B1062,Ramesh Surya Theja,CC
+23B1063,Gunda Sushanth,BC
+23B1064,Chaudhari Avinash Janardhan,CC
+23B1065,Devang Tibrewal,BC
+23B1066,Kunsoth Chandrashen Nayak,CD
+23B1067,Harsh Suthar,BC
+23B1068,Vaibhav Singh,BB
+23B1069,Uday Gajanan Darade,DD
+23B1071,Inampudi Harshitha,AA
+23B1072,Ette Hasini,AA
+23B1073,Marumamula Venkata Pranay,CC
+23B1074,Saksham Jain,CD
+23B1075,Shiv Narang,BC
+23B1076,Aryan Mahajan,CD
+23B1077,Bhavya Bansal,BB
+23B1078,Saksham Saharia,CC
+23B1079,Sumedh S S,BB
+23B1080,Shaik Awez Mehtab,BB
+23B1081,Rishi Kalra,BB
+23B1082,Dheeravath Thanuj,AB
+23B1083,Jigyasa Chouhan,DD
+23B1084,Guthikonda Abhiram,AB
+23B1085,Harith S,DD
+23V0066,Hsi Yu Ho,CC
+23B0983,Konda Puspa Kumar Reddy,DD
+23B1070,Bhukya Akkshitha Rathod,F
